@@ -4,7 +4,7 @@ the code process brick breaker game
 
 # Idea of the game 
 
-Brick Breaker is a Breakout clonewhich the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle move horizontally and is controlled with the the keyboard arrows, each time the player break a brick the score increases by 5.
+Brick Breaker is a Breakout clone which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle move horizontally and is controlled with the the keyboard arrows, each time the player break a brick the score increases by 5.
 when the ball fall to the ground instead of the paddle the player loses.
 
 # Output sample
